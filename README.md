@@ -52,3 +52,11 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 ![Screenshot 2024-09-13 105533](https://github.com/user-attachments/assets/6061cab2-a0b5-4de7-a722-faaad8e23158)
 ![Screenshot 2024-09-13 105533](https://github.com/user-attachments/assets/fe77282a-6bd7-48b9-ac17-b4035d675067)
 
+
+
+![Screenshot 2024-09-13 105636](https://github.com/user-attachments/assets/42758252-137e-4fd4-8ccc-60ecc0a1011c)
+![Screenshot 2024-09-13 105747](https://github.com/user-attachments/assets/5cb019b3-7787-4c19-ae1b-353e910e3e38)
+![Screenshot 2024-09-14 220959](https://github.com/user-attachments/assets/55b96b06-b2f9-4bd1-b036-0eb103c1a44b)
+![Screenshot 2024-09-14 221100](https://github.com/user-attachments/assets/8e9eb225-7df4-4017-9ee2-8433bb592460)
+![Screenshot 2024-09-14 235719](https://github.com/user-attachments/assets/7fd7ef18-fcb0-46b7-8142-2eb6c1664130)
+
