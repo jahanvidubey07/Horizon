@@ -19,8 +19,8 @@ const getEnvironment = (): "production" | "sandbox" => {
 
 const dwollaClient = new Client({
   environment: "sandbox",
-  key: "tsh8yjzrzJG2LrV609VMDwqszQGAQ68gU9Leq4YlADmiUo3faK",
-  secret: "b3mTel00WGgcqm3nVEDfkcfpBIyqQmhjsZeOgOFMOTrvkgRIMq"
+  key: "0z3Gt0FL2vr3yrpwtc5Wz9dIkyin20HyfsMwTgzTb1fBb5VDyg",
+  secret: "85bnqCeTezGjaV8GY2EKr6ZrZyoDahklSYTgAyJSvafupfAXw4"
 });
 
 // Create a Dwolla Funding Source using a Plaid Processor Token
